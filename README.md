@@ -1,2 +1,2 @@
 # exercicio29
-Construindo classes POO
+Construindo classes Programação Orientada a Objetos
